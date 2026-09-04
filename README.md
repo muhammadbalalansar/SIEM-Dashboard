@@ -18,6 +18,7 @@
 
 > Full-stack SIEM dashboard with real-time log correlation and MITRE ATT&CK attack scenario simulation engine.
 
+
 *This is a quick overview — security theory, architecture, and full walkthroughs are in the [learn modules](#learn).*
 
 **[Screenshots & live demo →](DEMO.md)**
