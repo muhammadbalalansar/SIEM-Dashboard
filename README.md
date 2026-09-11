@@ -64,7 +64,6 @@ This project includes step-by-step learning materials covering security theory, 
 | [03 - Implementation](learn/03-IMPLEMENTATION.md) | Code walkthrough |
 | [04 - Challenges](learn/04-CHALLENGES.md) | Extension ideas and exercises |
 
-
 ## License
 
 AGPL 3.0
