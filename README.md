@@ -9,9 +9,6 @@
 
 **Muhammad Balal Ansar(Cyber Security Expert)**
 
-[![Cybersecurity Projects](https://img.shields.io/badge/Cybersecurity--Projects-Project%20%231
-
-
 
 > Full-stack SIEM dashboard with real-time log correlation and MITRE ATT&CK attack scenario simulation engine.
 
