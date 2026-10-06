@@ -15,7 +15,7 @@
 
 **[Screenshots & live demo →](DEMO.md)**
 
-## What It Does
+## What It Does:
 
 - Real-time log ingestion and event correlation with three rule types (Threshold, Sequence, Aggregation)
 - Four YAML-based attack playbooks mapped to MITRE ATT&CK (brute force, DNS tunneling, phishing, privilege escalation)
