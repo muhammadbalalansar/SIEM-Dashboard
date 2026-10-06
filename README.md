@@ -24,7 +24,7 @@
 - Attack simulation engine that generates realistic multi-stage security events
 - Built with Just for task automation with full Docker Compose deployment
 
-## Quick Start
+## Quick Start:
 
 ```bash
 
