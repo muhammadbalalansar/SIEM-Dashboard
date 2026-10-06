@@ -37,7 +37,7 @@ Visit `http://localhost:8431` or the live demo at [siem.carterperez-dev.com](htt
 > This project uses [`just`](https://github.com/casey/just) as a command runner. Type `just` to see all available commands.
 > Install: `curl -sSf https://just.systems/install.sh | bash -s -- --to ~/.local/bin`
 
-## Stack
+## Stack:
 
 **Backend:** Flask, MongoEngine, Redis Streams, Pydantic, Argon2, JWT, Gunicorn
 
