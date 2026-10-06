@@ -20,6 +20,7 @@
 - Real-time log ingestion and event correlation with three rule types (Threshold, Sequence, Aggregation)
 - Four YAML-based attack playbooks mapped to MITRE ATT&CK (brute force, DNS tunneling, phishing, privilege escalation)
 - Server-Sent Events for live alert feed with paginated, filterable log viewer
+- 
 - Alert lifecycle management (acknowledge, investigate, resolve, false positive)
 - Attack simulation engine that generates realistic multi-stage security events
 - Built with Just for task automation with full Docker Compose deployment
