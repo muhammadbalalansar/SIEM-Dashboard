@@ -18,7 +18,7 @@
 ## What It Does
 
 - Real-time log ingestion and event correlation with three rule types (Threshold, Sequence, Aggregation)
-- Four YAML-based attack playbooks mapped to MITRE ATT&CK (brute force, DNS tunneling, phishing, privilege escalation)
+- Four YAML-based attack playbooks mapped to MITRE ATT&CK (brute force, DNS tunneling, phishing, privilege escalation). 
 - Server-Sent Events for live alert feed with paginated, filterable log viewer. 
   
 - Alert lifecycle management (acknowledge, investigate, resolve, false positive)
