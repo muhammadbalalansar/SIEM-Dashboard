@@ -46,7 +46,7 @@ Visit `http://localhost:8431` or the live demo at [siem.carterperez-dev.com](htt
 
 **Data:** *MongoDB 8, Redis 7*
 
-## Learn
+## Learn:
 
 This project includes step-by-step learning materials covering security theory, architecture, and implementation.
 
