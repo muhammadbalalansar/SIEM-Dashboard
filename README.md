@@ -48,7 +48,7 @@ Visit `http://localhost:8431` or the live demo at [siem.carterperez-dev.com](htt
 
 ## Learn:
 
-This project includes step-by-step learning materials covering security theory, architecture, and implementation.
+This project includes step-by-step learning materials covering security theory, architecture, and implementation
 
 | Module | Topic |
 |--------|-------|
