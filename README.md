@@ -42,7 +42,7 @@ Visit `http://localhost:8431` or the live demo at [siem.carterperez-dev.com](htt
 
 **Backend:** Flask, MongoEngine, Redis Streams, Pydantic, Argon2, JWT, Gunicorn
 
-**Frontend:** React 19, TypeScript, Vite, TanStack Query, Zustand, visx, SCSS Modules
+**Frontend:** React 19, TypeScript, Vite, TanStack Query, Zustand, visx, SCSS Modules. 
 
 **Data:** *MongoDB 8, Redis 7*
 
